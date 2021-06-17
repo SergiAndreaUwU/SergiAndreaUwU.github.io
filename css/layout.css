@@ -284,8 +284,12 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .angular {
-  	width: 90%;
+  	width: 80%;
   
+}
+.react {
+   width: 90%;
+
 }
 .javascript {
   	width: 75%;
@@ -300,19 +304,15 @@ ul#nav li.current a { color: #F06000; }
   
 }
 .html5 {
-  	width: 80%;
+  	width: 95%;
 
 }
 .python {
-  	width: 70%;
+  	width: 40%;
 
 }
-.java {
+.c-sharp {
    width: 60%;
- 
-}
-.mongodb {
-   width: 50%;
    
 }
 .sql {
@@ -628,7 +628,7 @@ ul#nav li.current a { color: #F06000; }
 .slides:after {
    clear: both;
 }
-/
+
 .no-js .slides > li:first-child { display: block; }
 
 /* Slider Styles */
